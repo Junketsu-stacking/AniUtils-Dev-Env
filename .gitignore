@@ -1,0 +1,9 @@
+#.env
+#.services
+#.secrets
+
+#services
+
+# Windows-specific
+Thumbs.db
+Desktop.ini
